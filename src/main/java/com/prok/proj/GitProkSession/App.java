@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Git!" );
-        System.out.println( "Github!" );
         System.out.println( "Git Session!" );
+        System.out.println( "Git Hub!" );
     }
 }
